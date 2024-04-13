@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371197712788",
+    "project_id": "chatgpt-62a1e",
+    "storage_bucket": "chatgpt-62a1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371197712788:android:d5229710a1e25277ec1781",
+        "android_client_info": {
+          "package_name": "com.mycompany.chatgptintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpAGHq4GAQgmPbUkb0Sfn-PCoznq22UOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
